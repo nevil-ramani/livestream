@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-livestream-dev-64559-authRole",
+      "UnauthRoleArn": "arn:aws:iam::693527486356:role/amplify-livestream-dev-64559-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::693527486356:role/amplify-livestream-dev-64559-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-livestream-dev-64559-deployment",
+      "UnauthRoleName": "amplify-livestream-dev-64559-unauthRole",
+      "StackName": "amplify-livestream-dev-64559",
+      "StackId": "arn:aws:cloudformation:us-east-1:693527486356:stack/amplify-livestream-dev-64559/d85fa170-1c63-11ee-879d-0aa104d61fa3",
+      "AmplifyAppId": "d3rmszis9qxryy"
+    }
+  }
+}
